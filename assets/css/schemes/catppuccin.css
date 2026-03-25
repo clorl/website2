@@ -1,0 +1,39 @@
+/* Catppuccin Frappé for Blowfish */
+:root {
+  /* Neutral Colors (Backgrounds & Text) */
+  --color-neutral: 198, 208, 245;       /* Text: #c6d0f5 */
+  --color-neutral-50: 48, 52, 70;      /* Base: #303446 */
+  --color-neutral-100: 41, 44, 60;     /* Mantle: #292c3c */
+  --color-neutral-200: 35, 38, 52;     /* Crust: #232634 */
+  --color-neutral-300: 65, 69, 89;     /* Surface 0 */
+  --color-neutral-400: 81, 87, 109;    /* Surface 1 */
+  --color-neutral-500: 98, 104, 128;   /* Surface 2 */
+  --color-neutral-600: 115, 121, 148;  /* Overlay 0 */
+  --color-neutral-700: 131, 139, 167;  /* Overlay 1 */
+  --color-neutral-800: 148, 156, 187;  /* Overlay 2 */
+  --color-neutral-900: 165, 173, 206;  /* Subtext 0 */
+
+  /* Primary Accent: Mauve (#ca9ee6) */
+  --color-primary-50: 242, 213, 207;   /* Rosewater */
+  --color-primary-100: 238, 190, 190;  /* Flamingo */
+  --color-primary-200: 244, 184, 228;  /* Pink */
+  --color-primary-300: 218, 170, 240;  /* Light Mauve */
+  --color-primary-400: 202, 158, 230;  /* Mid Mauve */
+  --color-primary-500: 202, 158, 230;  /* Mauve Base */
+  --color-primary-600: 180, 140, 210;
+  --color-primary-700: 150, 110, 180;
+  --color-primary-800: 120, 80, 150;
+  --color-primary-900: 90, 60, 120;
+
+  /* Secondary Accent: Lavender (#babbf1) */
+  --color-secondary-50: 239, 246, 255;
+  --color-secondary-100: 219, 234, 254;
+  --color-secondary-200: 186, 187, 241; /* Lavender Base */
+  --color-secondary-300: 140, 170, 238; /* Blue */
+  --color-secondary-400: 133, 193, 220; /* Sapphire */
+  --color-secondary-500: 129, 200, 190; /* Teal */
+  --color-secondary-600: 166, 209, 137; /* Green */
+  --color-secondary-700: 229, 200, 144; /* Yellow */
+  --color-secondary-800: 239, 159, 118; /* Peach */
+  --color-secondary-900: 231, 130, 132; /* Red */
+}

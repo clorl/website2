@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Clément Orlandini</title>
+    <link>//localhost:51898/blog/</link>
+    <description>Recent content in Blog on Clément Orlandini</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Wed, 25 Mar 2026 14:52:49 +0100</lastBuildDate><atom:link href="//localhost:51898/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello World</title>
+      <link>//localhost:51898/blog/hello-world/</link>
+      <pubDate>Wed, 25 Mar 2026 14:52:49 +0100</pubDate>
+      
+      <guid>//localhost:51898/blog/hello-world/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:51898/blog/hello-world/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
